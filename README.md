@@ -98,11 +98,23 @@ Autocomplete, navigation (go to definition, find usages etc), linting.
 - [Beautify](https://atom.io/packages/atom-beautify)
 Format code with many languages support.
 
+- [Sublime style column selection](https://atom.io/packages/sublime-style-column-selection)
+Select column (block select).
+
+- [Docblockr](https://atom.io/packages/docblockr)
+Documentation comment writing helper for jsdoc, phpdoc etc.
+
 - [Sort Lines](https://atom.io/packages/sort-lines)
 Sorts your lines. Never gets tired.
 
 - [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 Quickly toggle between single and double quotes.
+
+- [Clipboard plus](https://atom.io/packages/clipboard-plus)
+Copy/cut history with fuzzy select to insert.
+
+- [Expand region](https://atom.io/packages/expand-region)
+Expanding selection.
 
 - [Emmet](https://atom.io/packages/emmet)
 Emmet integration. (For web developers)
@@ -114,6 +126,15 @@ Helps Atom users to open files and folders easily. It can also creates new files
 - [Jumpy](https://atom.io/packages/jumpy)
 Quickly jump around visible text.
 
+- [Center line](https://atom.io/packages/center-line)
+Center editor on current line or align to top or bottom.
+
+- [Cursor history](https://atom.io/packages/cursor-history)
+Jump back/forward.
+
+- [Recent files fuzzy finder](https://atom.io/packages/recent-files-fuzzy-finder)
+Fuzzy open recent files.
+
 #### Visual
 - [File Icons](https://atom.io/packages/file-icons)
 Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
@@ -124,12 +145,21 @@ A package to display colors in project and files.
 - [Minimap](https://atom.io/packages/minimap)
 A preview of the full source code.
 
+- [Highlight selected](https://atom.io/packages/highlight-selected)
+Highlight selected word.
+
 #### General
 - [Sync Settings](https://atom.io/packages/sync-settings)
 Synchronize package settings, keymap and installed packages across Atom instances.
 
 - [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
 A terminal package for Atom.
+
+- [Git plus](https://atom.io/packages/git-plus)
+Git integration.
+
+- [Indent detective](https://atom.io/packages/indent-detective)
+Detect and set editor indentation automatically.
 
 - [Editor Config](https://atom.io/packages/editorconfig)
 [EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors
