@@ -121,7 +121,7 @@ Emmet integration. (For web developers)
 
 #### Navigation
 - [Advanced Open File](https://atom.io/packages/advanced-open-file)
-Helps Atom users to open files and folders easily. It can also creates new files and folders if they don't currently exist.
+Fast open/create file from current directory. Also fast go to system (type '/') or home directory (type '~/').
 
 - [Jumpy](https://atom.io/packages/jumpy)
 Quickly jump around visible text.
@@ -137,7 +137,7 @@ Fuzzy open recent files.
 
 #### Visual
 - [File Icons](https://atom.io/packages/file-icons)
-Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
+Adds file specific icons to Tree View, Fuzzy Finder and optionally tabs.
 
 - [Pigments](https://atom.io/packages/pigments)
 A package to display colors in project and files.
@@ -162,7 +162,7 @@ Git integration.
 Detect and set editor indentation automatically.
 
 - [Editor Config](https://atom.io/packages/editorconfig)
-[EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors
+[EditorConfig](https://editorconfig.org) integration.
 
 - [Fonts](https://atom.io/packages/fonts)
 Lots of monospace fonts.
