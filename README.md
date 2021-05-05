@@ -174,5 +174,30 @@ Lots of monospace fonts.
 Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats.
 
 ## Themes
+Built in themes not listed.
+### Dark
 #### User interface
+- [Seti](https://atom.io/themes/seti-ui)
+- [Material](https://atom.io/themes/atom-material-ui)
+- [Nord](https://atom.io/themes/nord-atom-ui)
+
 #### Syntax coloring
+- [Monokai](https://atom.io/themes/monokai)
+- [Dracula](https://atom.io/themes/dracula-syntax)
+- [Seti](https://atom.io/themes/seti-syntax)
+- [Pure](https://atom.io/themes/pure-syntax)
+- [Material](https://atom.io/themes/atom-material-syntax)
+- [Nord](https://atom.io/themes/nord-atom-syntax)
+- [Chester](https://github.com/csutter/chester-atom-syntax)
+- [Gruvbox](https://atom.io/themes/gruvbox-plus-syntax)
+
+### Light
+#### User interface
+- [Material](https://atom.io/themes/atom-material-ui)
+- [Native](https://atom.io/themes/native-ui)
+
+#### Syntax coloring
+- [Material](https://atom.io/themes/atom-material-syntax)
+- [Eclipse](https://atom.io/themes/atom-eclipse-syntax)
+- [Gruvbox](https://atom.io/themes/gruvbox-plus-syntax)
+- [Pure](https://atom.io/themes/pure-light-syntax)
