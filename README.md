@@ -158,6 +158,9 @@ A terminal package for Atom.
 - [Git plus](https://atom.io/packages/git-plus)
 Git integration.
 
+- [Script](https://atom.io/packages/script)
+Run scripts based on file name, a selection of code, or by line number with many languages support.
+
 - [Indent detective](https://atom.io/packages/indent-detective)
 Detect and set editor indentation automatically.
 
