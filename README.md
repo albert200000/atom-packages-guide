@@ -23,7 +23,7 @@
 
 ## Syntax
 Language packages extend the editor with syntax highlighting and/or
-snippets for a specific language or file format.
+snippets for a specific language or file format. Built in packages not listed.
 
 #### Programming
 - [Haskell](https://atom.io/packages/language-haskell)
@@ -85,11 +85,12 @@ Autocomplete, navigation (go to definition, find usages etc), linting.
 - Go - [ide-go](https://github.com/ckaznocha/ide-go), [ide-gopls](https://atom.io/packages/ide-gopls), [atom-ide-golang](https://atom.io/packages/atom-ide-golang)
 - [Purescript](https://atom.io/packages/ide-purescript)
 - [Common lisp](https://atom.io/packages/slima)
-
-#### Configuration
+- [Closure, ClosureScript](https://atom.io/packages/chlorine)
+- [Scala](https://atom.io/packages/ide-scala)
 
 #### Template
 - [Vue](https://atom.io/packages/atom-ide-vue)
+
 #### Other
 - [Latex](https://github.com/ashthespy/Atom-LaTeX)
 
@@ -118,6 +119,12 @@ Expanding selection.
 
 - [Emmet](https://atom.io/packages/emmet)
 Emmet integration. (For web developers)
+
+- [Lisp paredit](https://atom.io/packages/lisp-paredit)
+Paredit for Atom.
+
+- [Parinfer](https://atom.io/packages/parinfer)
+Balancing your parens when editing Lisp code.
 
 #### Navigation
 - [Advanced Open File](https://atom.io/packages/advanced-open-file)
