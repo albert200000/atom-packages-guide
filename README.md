@@ -78,6 +78,7 @@ Most of the [autocomplete](#autocomplete) packages provides linting as well.
 Autocomplete, navigation (go to definition, find usages etc), linting.
 #### Programming
 - [Typescript](https://atom.io/packages/atom-typescript)
+- [Javascript](https://atom.io/packages/ide-typescript)
 - [Javascript](https://atom.io/packages/atom-typescript) (Follow https://github.com/TypeStrong/atom-typescript/blob/master/docs/faq.md#i-want-to-use-atom-typescript-with-javascript-too)
 - PHP - [intelephense](https://atom.io/packages/ide-intelephense) (Not open source), [serenata](https://atom.io/packages/php-ide-serenata)
 - [Elixir](https://atom.io/packages/ide-elixir)
@@ -148,7 +149,7 @@ Fuzzy open recent files.
 - [File Icons](https://atom.io/packages/file-icons)
 Adds file specific icons to Tree View, Fuzzy Finder and optionally tabs.
 
-- [Pigments](https://atom.io/packages/pigments)
+- [Pigments](https://atom.io/packages/pigments) (causes slowdowns for large files)
 A package to display colors in project and files.
 
 - [Minimap](https://atom.io/packages/minimap)
